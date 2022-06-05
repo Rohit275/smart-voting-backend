@@ -1,4 +1,4 @@
-const app = require("./app");
+const app = require("src/app");
 const debug = require("debug")("node-angular");
 const http = require("http");
 
